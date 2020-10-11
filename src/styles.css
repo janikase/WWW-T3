@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+}
+
+th {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+}
+
+#reunat {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+.player1bg {
+  background-color: rgb(124, 252, 0);
+  font-family: Helvetica;
+  font-size: 30px;
+}
+.player2bg {
+  background-color: rgb(250, 128, 114);
+  font-family: Helvetica;
+  font-size: 30px;
+}
+
+.fullprog {
+  height: 24px;
+  width: 40%;
+}
+
+.x {
+  text-align: center;
+  vertical-align: center;
+  font-size: 30px;
+}
+
+.y {
+  margin-bottom: 0px;
+}
